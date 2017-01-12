@@ -1,9 +1,0 @@
-<html>
-         <head>
-                 <title>Á¹¸®´Ù</title>
-         </head>
-         <body> 
-                <h1> ³Ê¹« Á¹¸®³× </h1>
-                <h2> Á¹·Á¿ä </h2>
-</body>
-</html>
